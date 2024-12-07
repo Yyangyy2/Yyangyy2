@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi there 
+### I'm YY Wong
 
 
 # 💻 Tech Stack:
